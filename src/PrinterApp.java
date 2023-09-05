@@ -12,7 +12,7 @@ public class PrinterApp {
 		
 		System.out.println("Printer App");
 		
-	    String creator = "Kushani";
+	    String creator = "Gimhani";
 		
 	    System.out.println("This app is made by: " + creator);
 		
